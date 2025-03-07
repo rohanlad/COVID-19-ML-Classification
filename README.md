@@ -1,1 +1,1 @@
-Exloring machine learning algorithms to classify whether or not someone who was infected from Covid-19 survived or died as a result, based on information about the person such as their age, gender, location etc.
+This project aimed to classify whether a Covid-19 patient would survive or die based on epidemiological data. The dataset included key features such as age, sex, location, confirmed date, travel history, and chronic disease status.
